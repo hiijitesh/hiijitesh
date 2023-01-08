@@ -12,5 +12,9 @@ hiijitesh/hiijitesh is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&CN)](https://github.com/KnlnKS/leetcode-stats)
+or
+
+
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hiijitesh&theme=dark)](https://github.com/hiijitesh/leetcode-stats)
