@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jitesh Kumar, Python Developer
 - 👀 I’m interested in ML, AI, Data Science
-- 🌱 I’m currently learning Data Science
+<!-- - 🌱 I’m currently learning Data Science -->
 - 💞️ I’m looking to collaborate on Python Project
 - 📫 Reach me at jitehece@gmail.com
 
