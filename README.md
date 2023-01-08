@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Python Project
 - 📫 Reach me at jitehece@gmail.com
 
-
-https://leetcode-stats-six.vercel.app/?username=hiijitesh)](https://github.com/hiijitesh/leetcode-stats
+https://leetcode-stats-six.vercel.app/?username=hiijitesh)](https://github.com/KnlnKS/leetcode-stats
 
 <!---
 hiijitesh/hiijitesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
