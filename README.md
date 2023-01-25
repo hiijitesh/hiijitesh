@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## LeetCode for life! ([profile](https://leetcode.com/hiijitesh))
-[![Jitesh's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hiijitesh&theme=black)](https://github.com/hiijitesh/leetcode-stats)
+[![Jitesh's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hiijitesh&theme=dark)](https://github.com/hiijitesh/leetcode-stats)
 
 
 
