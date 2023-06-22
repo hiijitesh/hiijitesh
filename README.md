@@ -8,8 +8,8 @@
 hiijitesh/hiijitesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- 
-<img src="https://gpvc.arturio.dev/hiijitesh" alt="Profile views"/>
+ ![](https://komarev.com/ghpvc/?username=your-github-hiijitesh&label=Profile+views&color=blue)
+<!--- <img src="https://gpvc.arturio.dev/hiijitesh" alt="Profile views"/> -->
 
 ## Pretentious GitHub activity
 
