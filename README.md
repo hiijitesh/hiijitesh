@@ -1,5 +1,5 @@
 <h2> Hi, I’m Jitesh!</h2>
-<p>I am a Programmer & Developer. </p>
+<p> Programmer & Developer. </p>
 
 
 
