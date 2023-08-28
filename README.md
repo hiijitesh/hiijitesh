@@ -21,9 +21,8 @@ You can click the Preview link to take a look at your changes.
 [![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yangshun)](https://github.com/KnlnKS/leetcode-stats) -->
 
 
-## LeetCode Stats <[profile](https://leetcode.com/hiijitesh)/>
-[![Jitesh's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hiijitesh&theme=dark)](https://leetcode.com/hiijitesh)
-
+<!-- ## LeetCode Stats <[profile](https://leetcode.com/hiijitesh)/>
+[![Jitesh's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hiijitesh&theme=dark)](https://leetcode.com/hiijitesh) -->
 
 
 
