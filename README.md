@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 ![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiijitesh&show_icons=true&theme=transparent)
 
 
- ## LeetCode Stats <[profile](https://leetcode.com/hiijitesh)/>
-[![Jitesh's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hiijitesh&theme=dark)](https://leetcode.com/hiijitesh)
+<!--- ## LeetCode Stats <[profile](https://leetcode.com/hiijitesh)/>
+[![Jitesh's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hiijitesh&theme=dark)](https://leetcode.com/hiijitesh) -->
