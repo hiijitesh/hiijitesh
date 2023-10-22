@@ -1,5 +1,7 @@
 <h2> Hi, I’m Jitesh!</h2>
-<p> Programmer & Developer.![](https://komarev.com/ghpvc/?username=your-github-hiijitesh&label=Profile+views&color=blue) </p>
+Programmer & Developer!
+
+![](https://komarev.com/ghpvc/?username=your-github-hiijitesh&label=Profile+views&color=blue) 
 
 <!---
 hiijitesh/hiijitesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
