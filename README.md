@@ -1,4 +1,4 @@
-<h2> Hi, I’m Jitesh!</h2>
+<h2> Hi, I’m Jitesh.</h2>
 Programmer & Developer!
 
 ![](https://komarev.com/ghpvc/?username=your-github-hiijitesh&label=Profile+views&color=blue) 
