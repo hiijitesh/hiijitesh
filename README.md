@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiijitesh&show_icons=true&theme=transparent)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hiijitesh&limit=5&theme=dark &combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=hiijitesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!--- ## LeetCode Stats <[profile](https://leetcode.com/hiijitesh)/>
 [![Jitesh's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hiijitesh&theme=dark)](https://leetcode.com/hiijitesh) -->
