@@ -11,15 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 <!--- <img src="https://gpvc.arturio.dev/hiijitesh" alt="Profile views"/> -->
  
-
-
 ## Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiijitesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Pretentious GitHub Activity
 ![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiijitesh&show_icons=true&theme=transparent)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hiijitesh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hiijitesh&theme=dark&hide_border=false)
 
 <!--- ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hiijitesh&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
