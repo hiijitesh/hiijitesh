@@ -1,6 +1,12 @@
 <h2> Hi, I’m Jitesh. <img src="https://komarev.com/ghpvc/?username=your-github-hiijitesh&label=Profile+views&color=blue" alt="Profile Views"></h2>
 
  👨‍💻 Programmer & Developer.
+ 
+ **Languages and Tools:**  
+
+<code><img height="20" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
  <br>
 
 <!---
