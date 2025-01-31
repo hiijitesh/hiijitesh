@@ -29,10 +29,9 @@ You can click the Preview link to take a look at your changes.
 
 <!--- ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hiijitesh&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
- ## LeetCode Stats <[profile](https://bit.ly/jit-lc)/>
+<!-- ## LeetCode Stats <[profile](https://bit.ly/jit-lc)/>
  [![Leetcode Stats](https://leetcard.jacoblin.cool/hiijitesh)](https://bit.ly/jit-lc) 
-
+-->
 
 <!-- Contribution Graph-->
 <!--
