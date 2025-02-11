@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hi, I’m Jitesh. <img src="https://komarev.com/ghpvc/?username=your-github-hiijitesh&label=Profile+views&color=blue" alt="Profile Views"></h2>
+<h2> I’m Jitesh. <img src="https://komarev.com/ghpvc/?username=your-github-hiijitesh&label=Profile+views&color=blue" alt="Profile Views"></h2>
 
  👨‍💻 Programmer & Developer.
  
